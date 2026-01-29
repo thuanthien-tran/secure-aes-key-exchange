@@ -82,7 +82,7 @@ HẠN CHẾ HIỆN TẠI/ HƯỚNG PHÁT TRIỂN:
 - Chưa triển khai chứng thực CA/PKI
 - Chưa có xác thực hai chiều nâng cao
 - Chưa tích hợp sandbox mạng
-- Có thể mở rộng: TLS-like handshake hoặc AI-based anomaly detection cho key exchange
+- Có thể mở rộng: TLS-like handshake hoặc AI-based anomaly detection cho key exchange 
 
 
 
